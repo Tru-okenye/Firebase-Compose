@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998380311268",
+    "project_id": "mvvm-d47ab",
+    "storage_bucket": "mvvm-d47ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998380311268:android:a9776211fec0b8743392f1",
+        "android_client_info": {
+          "package_name": "MVVM.Firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yTiEw2MEb5AdBuGiIbF7Y15akb70K7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998380311268:android:094d123cda0c475f3392f1",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yTiEw2MEb5AdBuGiIbF7Y15akb70K7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
